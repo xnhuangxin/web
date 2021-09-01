@@ -5,8 +5,7 @@
 	License URL: http://creativecommons.org/licenses/by/3.0/
 --*/
 /*-- Reset-Code --*/
- w3-edu-info1
- w3-edu-grid-left
+w3ls_footer_grids
 body {
 	padding: 0;
 	margin: 0;
@@ -1173,7 +1172,7 @@ h4.modal-title {
 .w3ls_footer_grids p.agileits_w3layouts_est{
 	color:#fff;
 	line-height:2em;
-	margin:2em auto 5em;
+	margin:5em auto 5em;
 	    margin: 0 auto;
 	text-align:center;
 }
