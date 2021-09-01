@@ -5,7 +5,8 @@
 	License URL: http://creativecommons.org/licenses/by/3.0/
 --*/
 /*-- Reset-Code --*/
-w3ls_footer_grids
+w3-about-grid-small
+col-md-4 
 body {
 	padding: 0;
 	margin: 0;
@@ -1341,8 +1342,12 @@ h4.modal-title {
     width: 60%;
     float: left;
 	}
-	.w3-about-grid-small {
+	/*.w3-about-grid-small {
     width: 33.33%;
+    float: left;
+	}*/
+	.w3-about-grid-small {
+    width: 100%;
     float: left;
 	}
 	.w3-about-grid-left2 {
